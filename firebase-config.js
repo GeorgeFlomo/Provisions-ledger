@@ -33,10 +33,10 @@
 // ============================================================
 
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyD8x9J2mKp...",
-  authDomain: "provisions-ledger-4f2a1.firebaseapp.com",
-  projectId: "provisions-ledger-4f2a1",
-  storageBucket: "provisions-ledger-4f2a1.appspot.com",
-  messagingSenderId: "847293015662",
-  appId: "1:847293015662:web:9f3e8a2b1c4d5e6f",
+  apiKey: "AIzaSyCO5ImLLkSVIFEK_404unCwblovN1_MtxE",
+  authDomain: "provision-shop-456ce.firebaseapp.com",
+  projectId: "provision-shop-456ce",
+  storageBucket: "provision-shop-456ce.firebasestorage.app",
+  messagingSenderId: "677431674016",
+  appId: "1:677431674016:web:ae734a4ab310f7932935c5",
 };
