@@ -33,10 +33,10 @@
 // ============================================================
 
 window.FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyD8x9J2mKp...",
+  authDomain: "provisions-ledger-4f2a1.firebaseapp.com",
+  projectId: "provisions-ledger-4f2a1",
+  storageBucket: "provisions-ledger-4f2a1.appspot.com",
+  messagingSenderId: "847293015662",
+  appId: "1:847293015662:web:9f3e8a2b1c4d5e6f",
 };
